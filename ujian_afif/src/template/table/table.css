@@ -1,0 +1,41 @@
+.content{
+	margin-left: 15px;
+}
+
+.col2{
+	display: flex;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	font-size: larger;
+	height: 46vh;
+}
+
+.tNomor{
+	width: 25px;
+}
+
+.tAsset{
+	width: 150px;
+}
+
+.tKementerian{
+    text-align: center;
+}
+
+.tAlamat{
+	width: 275px;
+}
+
+.paging{
+	display: flex;
+    justify-content: space-evenly;
+	margin: 10px;
+}
+
+.table1{
+    background-color: lightskyblue;
+}
+
+.tdNo{
+	text-align: center;
+}

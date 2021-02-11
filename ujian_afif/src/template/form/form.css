@@ -1,0 +1,43 @@
+.header{
+    text-align: -webkit-center;
+    margin: 10px;
+}
+
+.asset{
+    width: 98%;
+}
+
+.form{
+    display: table-row-group;
+    background-color: thistle;
+}
+
+.isiForm{
+    border-top: double white;
+    text-align: left;
+    margin: 10px;
+}
+
+.button{
+    display: flex;
+    justify-content: space-evenly
+}
+
+.kementerian{
+    width: 150px;
+    margin-left: 16px;
+}
+
+.provinsi{
+    width: 150px;
+    margin-left: 50px;
+}
+
+.jumlah{
+    width: 50px;
+    margin-left: 15px;
+}
+
+.tanggal{
+    margin-left: 10px;
+}
